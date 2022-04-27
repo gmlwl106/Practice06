@@ -17,7 +17,7 @@ public class Triangle extends Shape{
 		System.out.println("#가로:"+width);
 		System.out.println("#세로:"+height);
 	}
-}
+} 
 
 
 
